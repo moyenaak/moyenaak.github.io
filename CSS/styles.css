@@ -1,6 +1,6 @@
 
 body{
-    background-color: black;
+    background-color: white;
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -111,7 +111,7 @@ a:hover{
 }
 .dp{
     margin: 70px 0 0 0;
-    width: 30%;
+    width: 15%;
 }
 .bio{
     color: #40514E;
